@@ -166,12 +166,9 @@ hr {
     }
 
     .player,
-    .blog {
+    .blog,
+    .course {
         flex-direction: column;
-    }
-
-    .courses {
-        display: none;
     }
 }
 
